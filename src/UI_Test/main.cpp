@@ -9,7 +9,7 @@
   Version: 0.1
   License: MIT
   Source: https://github.com/CIRCUITSTATE/CSE_CST328
-  Last Modified: +05:30 22:43:35 PM 10-03-2025, Monday
+  Last Modified: +05:30 10:04:47 AM 14-03-2025, Friday
  */
 //============================================================================================//
 
@@ -19,20 +19,20 @@
 #include <CSE_CST328.h>
 #include <CSE_UI.h>
 
-// #include "NotoSans-Bold-15.h"
-// #include "FiraSans-Regular-15.h"
-#include "FiraSans-Medium-15.h"
-// #include "Roboto-Regular-15.h"
-#include "NotoSans-Bold-28.h"
-#include "NotoSans-Bold-36.h"
-// #include "forkawesome-36.h"
-// #include "forkawesome-32.h"
-#include "forkawesome-30.h"
+// #include "fonts/firasans/FiraSans-Regular-15.h"
+#include "fonts/firasans/FiraSans-Medium-15.h"
+
+#include "fonts/notosans/NotoSans-Bold-28.h"
+#include "fonts/notosans/NotoSans-Bold-36.h"
+
+// #include "fonts/forkawesome/forkawesome-36.h"
+// #include "fonts/forkawesome/forkawesome-32.h"
+#include "fonts/forkawesome/forkawesome-30.h"
 
 // Include the header files that contain the icons
-#include "Alert.h"
-#include "Close.h"
-#include "Info.h"
+#include "fonts/forkawesome/Alert.h"
+#include "fonts/forkawesome/Close.h"
+#include "fonts/forkawesome/Info.h"
 
 //============================================================================================//
 // Macros and constants.

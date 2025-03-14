@@ -1,6 +1,12 @@
 
 
 #
+### **+05:30 11:06:42 AM 14-03-2025, Friday**
+
+  - Updated `UI_Test`.
+    - Updated fonts.
+
+#
 ### **+05:30 07:31:44 PM 12-03-2025, Wednesday**
 
   - Added `Fonts_Demo` example.
