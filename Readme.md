@@ -3,9 +3,9 @@
 
 ![Waveshare 2.8-Inch LCD](/docs/images/2.8inch-Capacitive-Touch-LCD-details-9.jpg)
 
-This repository contains example codes for testing the [**Waveshare 2.8-inch LCD**](https://www.waveshare.com/2.8inch-capacitive-touch-lcd.htm) (SKU 27579) using the [**FireBeetle-ESP32E**](https://www.dfrobot.com/product-2195.html) board. The 2.8 inch LCD from Waveshare uses the **ST7789T3** display controller and the **CST328** touch controller (in the touch version). This is a [PlatformIO] project based on the ESP32 Arduino framework.
+This repository contains example codes for testing the [**Waveshare 2.8-inch LCD**](https://www.waveshare.com/2.8inch-capacitive-touch-lcd.htm) (SKU 27579) using the [**FireBeetle-ESP32E**](https://www.dfrobot.com/product-2195.html) board. The 2.8 inch LCD from Waveshare uses the **ST7789T3** display controller and the **CST328** touch controller (in the touch version). This is a [PlatformIO](https://platformio.org) project based on the ESP32 Arduino framework.
 
-Even though this project uses the **FireBeetle-ESP32E** board, you should be able to modify the code for any other target relatively easily. We specifically used this board because its GDI (General Display Interface) is compatible with the LCD's connector. A complete tutorial on this display is available in the CIRCUITSTATE website - [**Interfacing Waveshare 2.8 Inch Capacitive Touch LCD with Arduino**](https://www.circuitstate.com/tutorials/interfacing-waveshare-2-8-inch-capacitive-touch-lcd-with-arduino/)
+Even though this project uses the **FireBeetle-ESP32E** board, you should be able to modify the code for any other targets relatively easily. We specifically used this board because its GDI (General Display Interface) port is compatible with the LCD's connector. A complete tutorial on this display is available in the CIRCUITSTATE website - [**Interfacing Waveshare 2.8 Inch Capacitive Touch LCD with Arduino**](https://www.circuitstate.com/tutorials/interfacing-waveshare-2-8-inch-capacitive-touch-lcd-with-arduino/)
 
 ## Specifications
 
